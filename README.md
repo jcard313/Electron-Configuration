@@ -3,7 +3,7 @@
 This is my attempt to make a python program which outputs the full and condensed electron configurations of elements given their element name, symbol, or atomic number. 
 
 Update as of 2019/10/15
- - General updates; fixed the f-block electrons.
+ - General updates; bug fixes
  - Attempts to add transition metal exceptions added but commented out for now.
  - Problems below are still unresolved
 
